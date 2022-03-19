@@ -1,0 +1,9 @@
+# have to declare the colors etc at the bottom,
+
+# have to take care of the precedence or else everything will collapse
+--have to declare the pdding clr bg etch like these properties at the end so that the styling of COMPONENTS doesnt get distorted
+
+
+# for your own convenience you have to use most of the values or ex. start rom 4 and keep going to atleast 40 for margin padding etc
+
+# dont forget to add properties like unset , 0, none (they are most important an they should be at the very end of the file so they can override every other css)

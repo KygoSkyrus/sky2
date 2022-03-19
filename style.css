@@ -1,0 +1,206 @@
+/* BODY */
+*,body,html{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+/***************** COMPONENTS ***************/
+
+/* BUTTON */
+.sky-btn{
+  padding: 8px 14px;
+  border: none;
+  background-color: unset;
+  color: white;
+  border-radius: 4px;
+}
+
+
+
+
+/***************** PROPERTIES ***************/
+
+/* background color */
+.sky-bg-mblack{
+  background-color: rgb(24, 24, 24);
+}
+.sky-bg-black{
+  background-color: rgb(0, 0, 0);
+}
+.sky-bg-white{
+  background-color: rgb(255, 255, 255);
+}
+.sky-bg-lwhite{
+  background-color: rgb(223, 223, 223);
+}
+.sky-bg-lred{
+  background-color: rgb(216, 69, 69);
+}
+
+
+
+/* COLORS */
+.sky-clr-mblack{
+   color: rgb(24, 24, 24);
+}
+.sky-clr-black{
+  color: #000;
+}
+.sky-clr-white{
+  color: rgb(255, 255, 255);
+}
+.sky-clr-lwhite{
+  color: rgb(223, 223, 223);
+}
+.sky-clr-lred{
+  background-color: rgb(216, 69, 69);
+}
+
+
+/* MARGIN */
+.sky-mg-xs{
+  margin: 2px;
+}
+.sky-mg-s{
+  margin: 6px;
+}
+.sky-mg-m{
+  margin: 20px;
+}
+.sky-mg-lg{
+  margin: 40px;
+}
+.sky-mg-xlg{
+  margin: 60px;
+}
+.sky-mg-40{
+  margin: 40px;
+}
+.sky-mg-60{
+  margin: 60px;
+}
+
+
+
+/* PADING */
+.sky-pd-xs{
+  padding: 2px;
+}
+.sky-pd-s{
+  padding: 6px;
+}
+.sky-pd-m{
+  padding: 20px;
+}
+.sky-pd-lg{
+  padding: 40px;
+}
+.sky-pd-xlg{
+  padding: 60px;
+}
+.sky-pd-40{
+  padding: 40px;
+}
+.sky-pd-60{
+  margin: 60px;
+}
+
+
+
+/* BORDER RADIUS */
+.sky-br-s{
+  border-radius: 4px;
+}
+.sky-br-50{
+  border-radius: 50%;
+}
+
+
+/* TEXT ALIGN */
+.sky-txt-c{
+  text-align: center ;
+}
+.sky-txt-r{
+  text-align: right;
+}
+.sky-txt-l{
+  text-align: left;
+}
+.sky-txt-j{
+  text-align: justify ;
+}
+
+
+/* DISPLAY */
+.sky-d-blck{
+  display: block;
+}
+.sky-d-i{
+  display: inline;
+}
+.sky-d-i-blck{
+  display: inline-block;
+}
+.sky-d-flx{
+  display: flex;
+}
+
+
+
+/* FLEX */
+/* justify-content */
+.sky-jc-c{
+  justify-content: center;
+}
+.sky-jc-fs{
+  justify-content: flex-start;
+}
+.sky-jc-fe{
+  justify-content: flex-end;
+}
+.sky-jc-sb{
+  justify-content: space-between;
+}
+.sky-jc-sa{
+  justify-content: space-around;
+}
+.sky-jc-se{
+  justify-content: space-evenly;
+}
+.sky-jc-u{
+  justify-content: unset;
+}
+
+/* align-items */
+.sky-ai-c{
+  align-items: center;
+}
+.sky-ai-fe{
+  align-items: flex-end;
+}
+.sky-ai-fs{
+  align-items: flex-start;
+}
+.sky-ai-u{
+  align-items: unset;
+}
+
+
+
+
+/* TEXT TRANSFORM */
+.sky-txt-upr{
+  text-transform: uppercase;
+}
+.sky-txt-lwr{
+  text-transform: lowercase;
+}
+.sky-txt-cap{
+  text-transform: capitalize;
+}
+.sky-txt-u{
+  text-transform: unset;
+}
