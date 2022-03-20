@@ -149,6 +149,25 @@
 }
 
 
+/* POSITION */
+.sky-p-sttc{
+  position:static;
+}
+.sky-p-rltv{
+  position: relative;
+}
+.sky-p-abslt{
+  position: absolute;
+}
+.sky-p-fxd{
+  position: fixed;
+}
+.sky-p-stck{
+  position: sticky;
+}
+
+
+
 
 /* FLEX */
 /* justify-content */
