@@ -83,9 +83,9 @@ sky-jc-u (justify-content-unset)
 
 ==ALIGN ITEMS
 sky-ai-c (align-items-flex-center)
-sky-ai-fs align-items-flex-start)
+sky-ai-fs (align-items-flex-start)
 sky-ai-fe(align-itemsflex-end)
-sky-ai-u align-items-u)
+sky-ai-u (align-items-u)
 
 
 
